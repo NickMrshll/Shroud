@@ -1,0 +1,14 @@
+shroud_patterns = [
+  "*.env",
+  "*.pass",
+  "*.pem",
+  "*.key",
+  "*.crt",
+  "*.cer",
+  "*.pfx",
+  "*.p12",
+  "*.jks",
+  "*.asc",
+  "*.gpg",
+  "*.tfvars",
+]
